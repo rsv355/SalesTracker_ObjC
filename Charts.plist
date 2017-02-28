@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Branch Chart</string>
+		<key>Identifier</key>
+		<string>COMMON_WEBVIEW</string>
+		<key>Color</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Department Chart</string>
+		<key>Identifier</key>
+		<string>COMMON_WEBVIEW</string>
+		<key>Color</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Department SLA Chart</string>
+		<key>Identifier</key>
+		<string>COMMON_WEBVIEW</string>
+		<key>Color</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sales Visit Plan Chart</string>
+		<key>Identifier</key>
+		<string>COMMON_WEBVIEW</string>
+		<key>Color</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>
